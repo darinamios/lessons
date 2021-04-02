@@ -1,0 +1,1 @@
+console.log(new Date('09/02/1958').getDay() === 2);
